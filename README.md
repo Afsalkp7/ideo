@@ -6,4 +6,6 @@ Resposnsive website using HTML and CSS only by media query
 - CSS
 - Javascript
 - Media query
+- Flex
+- Grid
 🔳🔳🔳🔳🔳🔳🔳
