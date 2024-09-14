@@ -4,9 +4,9 @@
  <hr />
 <br>
 - HTML <br>
-- CSS
-- Javascript
-- Media query
-- Flex
+- CSS <br />
+- Javascript <br />
+- Media query <br />
+- Flex < br />
 - Grid
 🔳🔳🔳🔳🔳🔳🔳
