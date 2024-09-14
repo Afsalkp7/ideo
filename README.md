@@ -7,6 +7,6 @@
 - CSS <br />
 - Javascript <br />
 - Media query <br />
-- Flex < br />
-- Grid
+- Flex  <br />
+- Grid <br />
 🔳🔳🔳🔳🔳🔳🔳
