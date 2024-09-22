@@ -9,5 +9,5 @@
 - Media query <br />
 - Flex  <br />
 - Grid <br />
-- Responsive Design<br />
+- Responsive Design
 🔳🔳🔳🔳🔳🔳🔳
