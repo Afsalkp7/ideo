@@ -10,6 +10,5 @@
 - Flex  <br />
 - Grid <br />
 - Responsive Design <br />
-<br />
 <hr />
 🔳🔳🔳🔳🔳🔳🔳
