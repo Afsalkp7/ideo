@@ -4,7 +4,7 @@
  <hr />
 <br>
 - HTML <br>
-- CSS <br />
+- CSS 
 - Javascript <br />
 - Media query <br />
 - Flex  <br />
