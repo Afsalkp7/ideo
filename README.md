@@ -4,11 +4,11 @@
  <hr />
 <br>
 - HTML <br>
-- CSS 
+- CSS <br />
 - Javascript <br />
 - Media query <br />
 - Flex  <br />
 - Grid <br />
 - Responsive Design <br />
 <hr />
-🔳🔳🔳🔳🔳🔳🔳
+🔳🔳🔳🔳🔳🔳
